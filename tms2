@@ -1,0 +1,5 @@
+#!/bin/bash
+
+ffmpeg -i alphabetoneX.flac -f flac XalphabetoneX.flac -v quiet
+
+

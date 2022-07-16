@@ -1,0 +1,2 @@
+#!/bin/bash
+termux-microphone-record -f/data/data/com.termux/files/home/sunfish/alphabetoneX.flac -e aac -l 2 > /dev/null

@@ -1,0 +1,5 @@
+rm -rf XalphabetoneX.flac  alphabetoneX.flac
+rm -rf XnumberoneX.flac  numberoneX.flac
+rm -rf XalphabettwoX.flac  alphabettwoX.flac
+rm -rf XnumbertwoX.flac  numbertwoX.flac
+rm -rf 1
